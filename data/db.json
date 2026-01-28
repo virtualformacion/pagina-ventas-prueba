@@ -107,22 +107,7 @@
       "image": "prime.jpg",
       "priceCOP": 5,
       "inventory": {
-        "profileAccounts": [
-          {
-            "id": "pa_d98aee88-5745-48ac-b816-585dd6b58c5b",
-            "email": "nandsd@djjd.dd",
-            "password": "121222",
-            "profiles": [
-              {
-                "name": "1",
-                "code": "23343",
-                "available": false,
-                "soldAt": "2026-01-28T15:32:54.281Z"
-              }
-            ],
-            "addedAt": "2026-01-28T15:28:59.316Z"
-          }
-        ]
+        "profileAccounts": []
       },
       "enabled": true
     },
