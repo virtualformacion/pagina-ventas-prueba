@@ -103,11 +103,6 @@
             "password": "DISNEY2434",
             "profiles": [
               {
-                "name": "1",
-                "code": "8918",
-                "available": true
-              },
-              {
                 "name": "2",
                 "code": "5648",
                 "available": true
