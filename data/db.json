@@ -60,11 +60,6 @@
             "password": "NAARFG",
             "profiles": [
               {
-                "name": "2",
-                "code": "1994",
-                "available": true
-              },
-              {
                 "name": "4",
                 "code": "2018",
                 "available": true
