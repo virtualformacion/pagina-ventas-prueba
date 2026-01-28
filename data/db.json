@@ -60,11 +60,6 @@
             "password": "NAALKJ",
             "profiles": [
               {
-                "name": "1",
-                "code": "8727",
-                "available": true
-              },
-              {
                 "name": "3",
                 "code": "2020",
                 "available": true
