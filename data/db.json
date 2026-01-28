@@ -33,15 +33,7 @@
       "priceCOP": 8000,
       "inventory": {
         "fullAccounts": [],
-        "fullAccountsSold": [
-          {
-            "id": "fa_4ed2bfba-b87e-4d84-b1ad-24b9451d6bdc",
-            "email": "erergter@referg.erger",
-            "password": "ergerger",
-            "addedAt": "2026-01-28T18:47:49.076Z",
-            "soldAt": "2026-01-28T18:49:55.846Z"
-          }
-        ]
+        "fullAccountsSold": []
       },
       "enabled": true
     },
