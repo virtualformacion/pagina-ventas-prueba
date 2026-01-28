@@ -1,7 +1,7 @@
 {
   "settings": {
     "adminUser": "admin",
-    "adminPass": "luisymixa",
+    "adminPass": "demo",
     "adminExpiresAt": "2027-01-01",
     "allowSelfRegister": false
   },
