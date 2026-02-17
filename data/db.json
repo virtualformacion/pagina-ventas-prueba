@@ -11,7 +11,7 @@
       "username": "demo",
       "password": "demo",
       "expiresAt": "2026-06-25",
-      "balanceCOP": 30,
+      "balanceCOP": 22,
       "createdAt": "2026-01-21T05:50:37.232Z"
     }
   ],
@@ -24,15 +24,16 @@
       "image": "netflix.jpg",
       "priceCOP": 8,
       "inventory": {
-        "fullAccounts": [
+        "fullAccounts": [],
+        "fullAccountsSold": [
           {
             "id": "fa_4f2c38b2-e893-4a61-8a79-902dd9a85f00",
             "email": "juan@gmail.com",
             "password": "1111111",
-            "addedAt": "2026-02-17T20:52:48.732Z"
+            "addedAt": "2026-02-17T20:52:48.732Z",
+            "soldAt": "2026-02-17T20:54:14.955Z"
           }
-        ],
-        "fullAccountsSold": []
+        ]
       },
       "enabled": true
     },
@@ -1242,6 +1243,27 @@
         }
       ],
       "purchasedAt": "2026-01-28T18:49:55.846Z"
+    },
+    {
+      "id": "p_31545f23-5861-4bba-8c1b-29c3ee2e19ed",
+      "code": "C-cf1d96cc-8233-428c-a757-da39d9749557",
+      "userId": "u_2b579da5-dbca-411a-8776-ea0c01b66842",
+      "username": "demo",
+      "productKey": "netflix_full",
+      "productName": "Netflix<br>(Cuenta completa)",
+      "unitPriceCOP": 8,
+      "qty": 1,
+      "totalPriceCOP": 8,
+      "items": [
+        {
+          "name": "Netflix<br>(Cuenta completa)",
+          "mode": "full",
+          "email": "juan@gmail.com",
+          "password": "1111111",
+          "deliveryText": "Netflix Premium\nEmail: juan@gmail.com\nContraseña: 1111111\nPerfiles asignados:\n-<<<\n\nPerfil #1,Pin:8727 🔐\nPerfil #2,Pin:1994 🔐\nPerfil #3,Pin:2020 🔐\nPerfil #4,Pin:2018 🔐\nPerfil #5,Pin:2190 🔐\n\n🍿 Pruebas y me cuentas cualquier novedad😊\n\nCONDICIONES\n- 🚫NO cambiar nombres\n- 🚫NO cambiar imagen \n- 🚫NO cambiar Pin ni contraseña \n- 🚫NO añadir miembro extra\n- 📲1 solo dispositivo por pantalla comprada.\n\n⚠️Si incumples alguna de estas condiciones, pierdes la cuenta sin derecho a garantía o devolución de dinero.⚠️\n\nLa duración de la cuenta es de 27 a 28 días. Por cada mes adquirido.\n\nPAGINA CODIGOS HOGAR\n🌐https://code-gamaz.netlify.app"
+        }
+      ],
+      "purchasedAt": "2026-02-17T20:54:14.955Z"
     }
   ]
 }
