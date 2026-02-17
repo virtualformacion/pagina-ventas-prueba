@@ -3,7 +3,7 @@
     "adminUser": "admin",
     "adminPass": "demo",
     "adminExpiresAt": "2027-01-01",
-    "allowSelfRegister": true
+    "allowSelfRegister": false
   },
   "users": [
     {
