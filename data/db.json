@@ -45,7 +45,26 @@
       "image": "netflix.jpg",
       "priceCOP": 4,
       "inventory": {
-        "profileAccounts": []
+        "profileAccounts": [
+          {
+            "id": "pa_ba2cb55e-0b45-4fae-b6a5-7ea470032a9d",
+            "email": "demo@gmail.com",
+            "password": "11111111",
+            "profiles": [
+              {
+                "name": "1",
+                "code": "0011",
+                "available": true
+              },
+              {
+                "name": "2",
+                "code": "0022",
+                "available": true
+              }
+            ],
+            "addedAt": "2026-02-17T20:57:07.829Z"
+          }
+        ]
       },
       "enabled": true
     },
