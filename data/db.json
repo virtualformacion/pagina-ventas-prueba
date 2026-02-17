@@ -11,7 +11,7 @@
       "username": "demo",
       "password": "demo",
       "expiresAt": "2026-06-25",
-      "balanceCOP": 0,
+      "balanceCOP": 30,
       "createdAt": "2026-01-21T05:50:37.232Z"
     }
   ],
