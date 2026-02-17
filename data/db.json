@@ -11,7 +11,7 @@
       "username": "demo",
       "password": "demo",
       "expiresAt": "2026-06-25",
-      "balanceCOP": 22,
+      "balanceCOP": 18,
       "createdAt": "2026-01-21T05:50:37.232Z"
     }
   ],
@@ -54,7 +54,8 @@
               {
                 "name": "1",
                 "code": "0011",
-                "available": true
+                "available": false,
+                "soldAt": "2026-02-17T20:58:20.421Z"
               },
               {
                 "name": "2",
@@ -1283,6 +1284,28 @@
         }
       ],
       "purchasedAt": "2026-02-17T20:54:14.955Z"
+    },
+    {
+      "id": "p_392266ac-2549-4eb3-af40-78e35136c465",
+      "code": "C-600d13e4-3af9-486a-b4aa-1a5ad70a4e42",
+      "userId": "u_2b579da5-dbca-411a-8776-ea0c01b66842",
+      "username": "demo",
+      "productKey": "netflix_profile",
+      "productName": "Netflix<br>(1 Perfil)<br>1 Dispositivo",
+      "unitPriceCOP": 4,
+      "qty": 1,
+      "totalPriceCOP": 4,
+      "items": [
+        {
+          "name": "Netflix<br>(1 Perfil)<br>1 Dispositivo",
+          "mode": "profile",
+          "email": "demo@gmail.com",
+          "password": "11111111",
+          "profile": "1",
+          "code": "0011"
+        }
+      ],
+      "purchasedAt": "2026-02-17T20:58:20.421Z"
     }
   ]
 }
